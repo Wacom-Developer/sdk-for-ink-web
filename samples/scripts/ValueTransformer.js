@@ -10,7 +10,7 @@
  * The reverse parameter in each transformation method allows for reversing the transformation by passing in true as the third argument. The reverse method simply returns the inverse of the input value (i.e., 1 - v).
  */
 
-export default class ValueTransformer {
+class ValueTransformer {
 
 	/**
 	 *
